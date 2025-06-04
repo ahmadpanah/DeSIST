@@ -1,0 +1,201 @@
+Run_ID,Framework,Network Lifetime (50% Depletion - hrs),Avg PDR (%)
+Standard RPL (No Security)_Run1,Standard RPL (No Security),80.0,41.7
+Standard RPL (No Security)_Run2,Standard RPL (No Security),90.0,38.85
+Standard RPL (No Security)_Run3,Standard RPL (No Security),78.0,40.5
+Standard RPL (No Security)_Run4,Standard RPL (No Security),84.0,39.85
+Standard RPL (No Security)_Run5,Standard RPL (No Security),83.0,42.88
+Standard RPL (No Security)_Run6,Standard RPL (No Security),84.0,45.3
+Standard RPL (No Security)_Run7,Standard RPL (No Security),80.0,39.23
+Standard RPL (No Security)_Run8,Standard RPL (No Security),86.0,46.26
+Standard RPL (No Security)_Run9,Standard RPL (No Security),83.0,40.49
+Standard RPL (No Security)_Run10,Standard RPL (No Security),87.0,41.43
+Standard RPL (No Security)_Run11,Standard RPL (No Security),82.0,42.98
+Standard RPL (No Security)_Run12,Standard RPL (No Security),82.0,40.24
+Standard RPL (No Security)_Run13,Standard RPL (No Security),72.0,40.22
+Standard RPL (No Security)_Run14,Standard RPL (No Security),77.0,40.79
+Standard RPL (No Security)_Run15,Standard RPL (No Security),78.0,44.13
+Standard RPL (No Security)_Run16,Standard RPL (No Security),83.0,42.47
+Standard RPL (No Security)_Run17,Standard RPL (No Security),75.0,40.24
+Standard RPL (No Security)_Run18,Standard RPL (No Security),83.0,42.87
+Standard RPL (No Security)_Run19,Standard RPL (No Security),83.0,47.06
+Standard RPL (No Security)_Run20,Standard RPL (No Security),86.0,37.86
+Standard RPL (No Security)_Run21,Standard RPL (No Security),86.0,40.38
+Standard RPL (No Security)_Run22,Standard RPL (No Security),76.0,42.24
+Standard RPL (No Security)_Run23,Standard RPL (No Security),75.0,38.8
+Standard RPL (No Security)_Run24,Standard RPL (No Security),71.0,42.01
+Standard RPL (No Security)_Run25,Standard RPL (No Security),90.0,42.76
+Standard RPL (No Security)_Run26,Standard RPL (No Security),79.0,43.44
+Standard RPL (No Security)_Run27,Standard RPL (No Security),89.0,43.11
+Standard RPL (No Security)_Run28,Standard RPL (No Security),85.0,39.5
+Standard RPL (No Security)_Run29,Standard RPL (No Security),76.0,42.53
+Standard RPL (No Security)_Run30,Standard RPL (No Security),83.0,38.6
+Standard RPL (No Security)_Run31,Standard RPL (No Security),83.0,43.05
+Standard RPL (No Security)_Run32,Standard RPL (No Security),79.0,42.22
+Standard RPL (No Security)_Run33,Standard RPL (No Security),81.0,39.77
+Standard RPL (No Security)_Run34,Standard RPL (No Security),87.0,39.39
+Standard RPL (No Security)_Run35,Standard RPL (No Security),83.0,40.58
+Standard RPL (No Security)_Run36,Standard RPL (No Security),87.0,40.73
+Standard RPL (No Security)_Run37,Standard RPL (No Security),87.0,45.64
+Standard RPL (No Security)_Run38,Standard RPL (No Security),82.0,41.35
+Standard RPL (No Security)_Run39,Standard RPL (No Security),80.0,48.86
+Standard RPL (No Security)_Run40,Standard RPL (No Security),93.0,38.73
+Standard RPL (No Security)_Run41,Standard RPL (No Security),78.0,42.48
+Standard RPL (No Security)_Run42,Standard RPL (No Security),82.0,37.55
+Standard RPL (No Security)_Run43,Standard RPL (No Security),77.0,42.88
+Standard RPL (No Security)_Run44,Standard RPL (No Security),83.0,38.89
+Standard RPL (No Security)_Run45,Standard RPL (No Security),86.0,44.57
+Standard RPL (No Security)_Run46,Standard RPL (No Security),82.0,40.4
+Standard RPL (No Security)_Run47,Standard RPL (No Security),83.0,37.92
+Standard RPL (No Security)_Run48,Standard RPL (No Security),79.0,40.38
+Standard RPL (No Security)_Run49,Standard RPL (No Security),83.0,36.79
+Standard RPL (No Security)_Run50,Standard RPL (No Security),81.0,39.36
+Ideal Scenario (No Attackers)_Run1,Ideal Scenario (No Attackers),208.0,98.82
+Ideal Scenario (No Attackers)_Run2,Ideal Scenario (No Attackers),209.0,98.05
+Ideal Scenario (No Attackers)_Run3,Ideal Scenario (No Attackers),200.0,97.67
+Ideal Scenario (No Attackers)_Run4,Ideal Scenario (No Attackers),206.0,98.37
+Ideal Scenario (No Attackers)_Run5,Ideal Scenario (No Attackers),207.0,98.08
+Ideal Scenario (No Attackers)_Run6,Ideal Scenario (No Attackers),199.0,97.39
+Ideal Scenario (No Attackers)_Run7,Ideal Scenario (No Attackers),196.0,97.92
+Ideal Scenario (No Attackers)_Run8,Ideal Scenario (No Attackers),220.0,97.53
+Ideal Scenario (No Attackers)_Run9,Ideal Scenario (No Attackers),213.0,98.66
+Ideal Scenario (No Attackers)_Run10,Ideal Scenario (No Attackers),197.0,97.25
+Ideal Scenario (No Attackers)_Run11,Ideal Scenario (No Attackers),200.0,97.49
+Ideal Scenario (No Attackers)_Run12,Ideal Scenario (No Attackers),198.0,98.3
+Ideal Scenario (No Attackers)_Run13,Ideal Scenario (No Attackers),206.0,98.95
+Ideal Scenario (No Attackers)_Run14,Ideal Scenario (No Attackers),206.0,98.11
+Ideal Scenario (No Attackers)_Run15,Ideal Scenario (No Attackers),208.0,97.5
+Ideal Scenario (No Attackers)_Run16,Ideal Scenario (No Attackers),217.0,97.41
+Ideal Scenario (No Attackers)_Run17,Ideal Scenario (No Attackers),215.0,96.66
+Ideal Scenario (No Attackers)_Run18,Ideal Scenario (No Attackers),205.0,97.85
+Ideal Scenario (No Attackers)_Run19,Ideal Scenario (No Attackers),209.0,98.74
+Ideal Scenario (No Attackers)_Run20,Ideal Scenario (No Attackers),206.0,98.19
+Ideal Scenario (No Attackers)_Run21,Ideal Scenario (No Attackers),202.0,98.61
+Ideal Scenario (No Attackers)_Run22,Ideal Scenario (No Attackers),211.0,97.15
+Ideal Scenario (No Attackers)_Run23,Ideal Scenario (No Attackers),211.0,98.14
+Ideal Scenario (No Attackers)_Run24,Ideal Scenario (No Attackers),197.0,97.82
+Ideal Scenario (No Attackers)_Run25,Ideal Scenario (No Attackers),222.0,97.74
+Ideal Scenario (No Attackers)_Run26,Ideal Scenario (No Attackers),205.0,97.89
+Ideal Scenario (No Attackers)_Run27,Ideal Scenario (No Attackers),197.0,97.55
+Ideal Scenario (No Attackers)_Run28,Ideal Scenario (No Attackers),214.0,98.44
+Ideal Scenario (No Attackers)_Run29,Ideal Scenario (No Attackers),207.0,97.22
+Ideal Scenario (No Attackers)_Run30,Ideal Scenario (No Attackers),217.0,97.7
+Ideal Scenario (No Attackers)_Run31,Ideal Scenario (No Attackers),210.0,98.41
+Ideal Scenario (No Attackers)_Run32,Ideal Scenario (No Attackers),198.0,97.58
+Ideal Scenario (No Attackers)_Run33,Ideal Scenario (No Attackers),219.0,98.86
+Ideal Scenario (No Attackers)_Run34,Ideal Scenario (No Attackers),221.0,98.51
+Ideal Scenario (No Attackers)_Run35,Ideal Scenario (No Attackers),184.0,98.9
+Ideal Scenario (No Attackers)_Run36,Ideal Scenario (No Attackers),184.0,98.43
+Ideal Scenario (No Attackers)_Run37,Ideal Scenario (No Attackers),202.0,97.77
+Ideal Scenario (No Attackers)_Run38,Ideal Scenario (No Attackers),191.0,98.95
+Ideal Scenario (No Attackers)_Run39,Ideal Scenario (No Attackers),213.0,98.56
+Ideal Scenario (No Attackers)_Run40,Ideal Scenario (No Attackers),202.0,98.19
+Ideal Scenario (No Attackers)_Run41,Ideal Scenario (No Attackers),215.0,96.98
+Ideal Scenario (No Attackers)_Run42,Ideal Scenario (No Attackers),203.0,97.98
+Ideal Scenario (No Attackers)_Run43,Ideal Scenario (No Attackers),212.0,97.63
+Ideal Scenario (No Attackers)_Run44,Ideal Scenario (No Attackers),195.0,96.73
+Ideal Scenario (No Attackers)_Run45,Ideal Scenario (No Attackers),215.0,99.44
+Ideal Scenario (No Attackers)_Run46,Ideal Scenario (No Attackers),202.0,98.41
+Ideal Scenario (No Attackers)_Run47,Ideal Scenario (No Attackers),219.0,98.49
+Ideal Scenario (No Attackers)_Run48,Ideal Scenario (No Attackers),200.0,97.48
+Ideal Scenario (No Attackers)_Run49,Ideal Scenario (No Attackers),204.0,97.54
+Ideal Scenario (No Attackers)_Run50,Ideal Scenario (No Attackers),206.0,98.19
+Representative TBS_Run1,Representative TBS,122.0,73.77
+Representative TBS_Run2,Representative TBS,135.0,71.46
+Representative TBS_Run3,Representative TBS,144.0,72.43
+Representative TBS_Run4,Representative TBS,137.0,75.32
+Representative TBS_Run5,Representative TBS,138.0,69.92
+Representative TBS_Run6,Representative TBS,129.0,75.63
+Representative TBS_Run7,Representative TBS,144.0,70.11
+Representative TBS_Run8,Representative TBS,148.0,72.88
+Representative TBS_Run9,Representative TBS,134.0,69.68
+Representative TBS_Run10,Representative TBS,135.0,73.2
+Representative TBS_Run11,Representative TBS,147.0,73.11
+Representative TBS_Run12,Representative TBS,130.0,72.03
+Representative TBS_Run13,Representative TBS,139.0,74.36
+Representative TBS_Run14,Representative TBS,134.0,70.19
+Representative TBS_Run15,Representative TBS,135.0,72.28
+Representative TBS_Run16,Representative TBS,148.0,69.54
+Representative TBS_Run17,Representative TBS,142.0,71.03
+Representative TBS_Run18,Representative TBS,133.0,70.78
+Representative TBS_Run19,Representative TBS,129.0,74.11
+Representative TBS_Run20,Representative TBS,132.0,74.28
+Representative TBS_Run21,Representative TBS,150.0,72.5
+Representative TBS_Run22,Representative TBS,143.0,70.24
+Representative TBS_Run23,Representative TBS,140.0,71.19
+Representative TBS_Run24,Representative TBS,140.0,73.75
+Representative TBS_Run25,Representative TBS,154.0,70.02
+Representative TBS_Run26,Representative TBS,140.0,73.46
+Representative TBS_Run27,Representative TBS,141.0,75.07
+Representative TBS_Run28,Representative TBS,145.0,68.72
+Representative TBS_Run29,Representative TBS,152.0,72.71
+Representative TBS_Run30,Representative TBS,148.0,70.84
+Representative TBS_Run31,Representative TBS,137.0,71.35
+Representative TBS_Run32,Representative TBS,141.0,68.03
+Representative TBS_Run33,Representative TBS,135.0,70.56
+Representative TBS_Run34,Representative TBS,128.0,71.38
+Representative TBS_Run35,Representative TBS,137.0,70.46
+Representative TBS_Run36,Representative TBS,132.0,70.03
+Representative TBS_Run37,Representative TBS,136.0,70.19
+Representative TBS_Run38,Representative TBS,146.0,73.09
+Representative TBS_Run39,Representative TBS,133.0,69.81
+Representative TBS_Run40,Representative TBS,151.0,69.38
+Representative TBS_Run41,Representative TBS,149.0,71.6
+Representative TBS_Run42,Representative TBS,140.0,71.29
+Representative TBS_Run43,Representative TBS,147.0,68.77
+Representative TBS_Run44,Representative TBS,139.0,70.31
+Representative TBS_Run45,Representative TBS,157.0,72.36
+Representative TBS_Run46,Representative TBS,145.0,69.17
+Representative TBS_Run47,Representative TBS,129.0,71.75
+Representative TBS_Run48,Representative TBS,134.0,71.22
+Representative TBS_Run49,Representative TBS,136.0,70.77
+Representative TBS_Run50,Representative TBS,126.0,68.43
+DeSIST Framework_Run1,DeSIST Framework,183.0,88.88
+DeSIST Framework_Run2,DeSIST Framework,178.0,87.47
+DeSIST Framework_Run3,DeSIST Framework,177.0,90.28
+DeSIST Framework_Run4,DeSIST Framework,169.0,88.77
+DeSIST Framework_Run5,DeSIST Framework,175.0,89.75
+DeSIST Framework_Run6,DeSIST Framework,180.0,87.49
+DeSIST Framework_Run7,DeSIST Framework,174.0,88.52
+DeSIST Framework_Run8,DeSIST Framework,172.0,89.44
+DeSIST Framework_Run9,DeSIST Framework,171.0,87.57
+DeSIST Framework_Run10,DeSIST Framework,176.0,86.34
+DeSIST Framework_Run11,DeSIST Framework,180.0,90.75
+DeSIST Framework_Run12,DeSIST Framework,171.0,89.42
+DeSIST Framework_Run13,DeSIST Framework,175.0,90.92
+DeSIST Framework_Run14,DeSIST Framework,177.0,89.28
+DeSIST Framework_Run15,DeSIST Framework,176.0,88.57
+DeSIST Framework_Run16,DeSIST Framework,178.0,88.15
+DeSIST Framework_Run17,DeSIST Framework,177.0,88.84
+DeSIST Framework_Run18,DeSIST Framework,187.0,90.7
+DeSIST Framework_Run19,DeSIST Framework,163.0,87.91
+DeSIST Framework_Run20,DeSIST Framework,176.0,88.61
+DeSIST Framework_Run21,DeSIST Framework,180.0,88.1
+DeSIST Framework_Run22,DeSIST Framework,171.0,89.88
+DeSIST Framework_Run23,DeSIST Framework,164.0,86.52
+DeSIST Framework_Run24,DeSIST Framework,179.0,88.85
+DeSIST Framework_Run25,DeSIST Framework,165.0,91.07
+DeSIST Framework_Run26,DeSIST Framework,176.0,89.73
+DeSIST Framework_Run27,DeSIST Framework,184.0,88.54
+DeSIST Framework_Run28,DeSIST Framework,179.0,89.87
+DeSIST Framework_Run29,DeSIST Framework,171.0,91.08
+DeSIST Framework_Run30,DeSIST Framework,189.0,90.33
+DeSIST Framework_Run31,DeSIST Framework,171.0,90.63
+DeSIST Framework_Run32,DeSIST Framework,176.0,89.92
+DeSIST Framework_Run33,DeSIST Framework,182.0,89.15
+DeSIST Framework_Run34,DeSIST Framework,179.0,87.68
+DeSIST Framework_Run35,DeSIST Framework,181.0,86.5
+DeSIST Framework_Run36,DeSIST Framework,175.0,89.59
+DeSIST Framework_Run37,DeSIST Framework,167.0,88.6
+DeSIST Framework_Run38,DeSIST Framework,176.0,89.4
+DeSIST Framework_Run39,DeSIST Framework,184.0,91.08
+DeSIST Framework_Run40,DeSIST Framework,180.0,90.26
+DeSIST Framework_Run41,DeSIST Framework,177.0,89.92
+DeSIST Framework_Run42,DeSIST Framework,183.0,88.98
+DeSIST Framework_Run43,DeSIST Framework,178.0,88.6
+DeSIST Framework_Run44,DeSIST Framework,167.0,89.4
+DeSIST Framework_Run45,DeSIST Framework,173.0,89.41
+DeSIST Framework_Run46,DeSIST Framework,182.0,90.14
+DeSIST Framework_Run47,DeSIST Framework,180.0,87.9
+DeSIST Framework_Run48,DeSIST Framework,170.0,86.05
+DeSIST Framework_Run49,DeSIST Framework,178.0,90.41
+DeSIST Framework_Run50,DeSIST Framework,176.0,90.86
