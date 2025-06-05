@@ -1,4 +1,4 @@
-# DeSIST: Emergent Security in IoT - Simulation Framework
+# DeSIST: Emergent Security in IoT through Decentralized Strategic Interactions – A Game-Theoretic Zero Trust Framework
 
 This repository contains a Python-based simulation framework for the "DeSIST: Emergent Security in IoT through Decentralized Strategic Interactions - A Game-Theoretic Zero Trust Framework" paper. The simulation models IoT nodes making decentralized decisions based on game theory to enhance network security and resilience against common attacks.
 
