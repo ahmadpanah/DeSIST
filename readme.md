@@ -122,7 +122,7 @@ The core logic is contained within `main.py`:
 ## How to Run
 
 1.  Ensure you have Python and the required libraries installed.
-2.  Save the code as a Python file (e.g., `desist_simulation.py`).
+2.  Save the code as a Python file (e.g., `main.py`).
 3.  Run the simulation from your terminal:
     ```bash
     python main.py
@@ -131,7 +131,7 @@ The core logic is contained within `main.py`:
 
 ## Configuration Parameters
 
-Key parameters can be adjusted at the top of the `desist_simulation.py` script:
+Key parameters can be adjusted at the top of the `main.py` script:
 
 *   **Simulation Time & Scale:**
     *   `SIM_DURATION`: Total simulation time units.
